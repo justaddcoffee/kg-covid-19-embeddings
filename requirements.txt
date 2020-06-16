@@ -1,0 +1,6 @@
+numpy>=1.16.4
+pandas
+sklearn
+tensorflow>=2.0
+click
+git+git://github.com/justaddcoffee/embiggen@kg-covid-19-embeddings
